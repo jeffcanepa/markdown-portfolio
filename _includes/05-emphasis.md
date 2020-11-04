@@ -1,1 +1,15 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+
+Here is a _list_ of my technical __skills__
+
+_Languages_
+- Javascript
+- Java
+- AppleScript
+
+_Platforms_
+- **OS X**
+- iOS
+- Linux
+- Windows
+- Android
